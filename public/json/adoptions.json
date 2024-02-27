@@ -1,0 +1,14 @@
+
+
+[
+  {
+    "userId": 1,
+    "animalId": 5,
+    "adoptionDate": "2021-01-15"
+  },
+  {
+    "userId": 2,
+    "animalId": 3,
+    "adoptionDate": "2021-02-20"
+  }
+]
